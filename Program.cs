@@ -1,4 +1,5 @@
-﻿string[] array = new string[3] {"Hello", "2", "world"};
+﻿// Решение итоговой задачи
+string[] array = new string[3] {"Hello", "2", "world"};
 string[] newarray = new string[array.Length];
 void NewArray(string[] array, string[] newarray)
 {
